@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 public class UsoArrays {
 
 	public static void main(String[] args) {
-		// Este procedimiento se ha modificado por FERNANDO IÑIGO SANCHEZ.
+		// Este procedimiento se ha modificado por FERNANDO IÑIGO SANCHEZ..
 
 		int opcion=Integer.parseInt(JOptionPane.showInputDialog("Dame una opcion (1-2)"));
 
